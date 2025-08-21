@@ -30,7 +30,7 @@ Soy un desarrollador **Full Stack** enfocado en construir soluciones modernas y 
 
 - ✉️ **Email:** emilianohernan92@mail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/emilianocortez](https://www.linkedin.com/in/emiliano-hernan-cortez)  
-- 🌐 **Portfolio:** *En construcción...*
+- 🌐 **Portfolio:** https://emilianohcortez.netlify.app/
 
 ---
 
